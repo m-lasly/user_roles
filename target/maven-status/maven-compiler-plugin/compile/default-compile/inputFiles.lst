@@ -1,0 +1,9 @@
+/opt/develop/git/simo/tut-spring-security-and-angular-js/single/src/main/java/demo/UiApplication.java
+/opt/develop/git/simo/tut-spring-security-and-angular-js/single/src/main/java/demo/SecurityConfiguration.java
+/opt/develop/git/simo/tut-spring-security-and-angular-js/single/src/main/java/demo/entity/User.java
+/opt/develop/git/simo/tut-spring-security-and-angular-js/single/src/main/java/demo/WebMvcConfig.java
+/opt/develop/git/simo/tut-spring-security-and-angular-js/single/src/main/java/demo/controller/UserController.java
+/opt/develop/git/simo/tut-spring-security-and-angular-js/single/src/main/java/demo/entity/Role.java
+/opt/develop/git/simo/tut-spring-security-and-angular-js/single/src/main/java/demo/repo/UserRepository.java
+/opt/develop/git/simo/tut-spring-security-and-angular-js/single/src/main/java/demo/repo/RoleRepository.java
+/opt/develop/git/simo/tut-spring-security-and-angular-js/single/src/main/java/demo/service/AuthenticationService.java

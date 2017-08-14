@@ -1,0 +1,10 @@
+demo/controller/UserController.class
+demo/entity/User.class
+demo/WebMvcConfig.class
+demo/SecurityConfiguration.class
+demo/SecurityConfiguration$1.class
+demo/repo/RoleRepository.class
+demo/entity/Role.class
+demo/service/AuthenticationService.class
+demo/UiApplication.class
+demo/repo/UserRepository.class
